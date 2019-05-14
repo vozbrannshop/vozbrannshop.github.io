@@ -1,0 +1,79 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+  min-height: 100vh;
+  position: relative;
+  margin: 5px; }
+
+.content {
+  padding-bottom: 4%; }
+
+.categoryButton {
+  padding-top: 1%;
+  padding-bottom: 1%; }
+
+.categoryName {
+  font-size: 30px;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  background-color: #343a40;
+  color: white; }
+
+.productImg {
+  max-width: 100%;
+  max-height: 300px; }
+
+.cartImg {
+  max-width: 100%;
+  max-height: 250px; }
+
+.product {
+  padding: 3%; }
+
+.categoriesNNN {
+  font-size: 20px; }
+
+.productName {
+  font-size: 1.2rem;
+  margin-top: 0.8%;
+  margin-bottom: 0.5%; }
+
+.priceText {
+  font-size: 1rem;
+  padding-right: 15px; }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  background-color: #343a40;
+  color: white; }
+
+.categoryDescription {
+  margin-left: 0.5%;
+  font-size: 0.7rem; }
+
+.productDescription {
+  padding-top: 1.5%; }
+
+.cartObj {
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  padding: 3%; }
+
+.returnBtn {
+  margin-bottom: 1.5%; }
+
+.oldPriceText {
+  text-decoration: line-through; }
+
+.priceText {
+  font-size: 1.2rem;
+  padding-left: 2%;
+  padding-right: 2%; }
+
+.saveRow {
+  margin-bottom: 5%; }
+
+.hidden {
+  visibility: hidden; }
+
